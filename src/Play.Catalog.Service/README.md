@@ -1,0 +1,1 @@
+To fix security error => dotnet dev-certs https --trust
